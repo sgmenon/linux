@@ -728,7 +728,8 @@ dtb-$(CONFIG_ARCH_OMAP2) += \
 	omap2420-n800.dtb \
 	omap2420-n810.dtb \
 	omap2420-n810-wimax.dtb \
-	omap2430-sdp.dtb
+	omap2430-sdp.dtb \
+	BBB-pps-gen.dtb
 dtb-$(CONFIG_ARCH_OMAP3) += \
 	am3517-craneboard.dtb \
 	am3517-evm.dtb \
